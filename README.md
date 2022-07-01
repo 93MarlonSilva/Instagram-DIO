@@ -1,4 +1,4 @@
-<h3>Design challenge recreating instagram homepage Digital Innovation One.</h3>
+<h3>Design challenge recreating Instagram Homepage Digital Innovation One.</h3>
 
 ## About
 
