@@ -1,6 +1,10 @@
-# Design challenge recreating the Instagram homepage.
+<h3>Design challenge recreating instagram homepage Digital Innovation One.</h3>
 
-I made the changes to the responsiveness and it was clear the layout to my liking :cookie:
+## About
+
+  Project with only Html and css
+
+  Responsive by flexbox css
 
 
 ![capa](img/capa.png)
