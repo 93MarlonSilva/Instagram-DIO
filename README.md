@@ -4,7 +4,7 @@
 
   Project with only Html and css
 
-  Responsive by flexbox css
+  Stylized with css flexbox
 
 
 ![capa](img/capa.png)
